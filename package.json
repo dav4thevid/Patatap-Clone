@@ -1,0 +1,24 @@
+{
+  "name": "patatap_clone",
+  "version": "1.0.0",
+  "description": "display circles and makes sounds when you tap any key",
+  "main": "Circles.html",
+  "dependencies": {
+    "heroku": "^7.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "Circles.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dav4thevid/Patatap-Clone.git"
+  },
+  "author": "Dave Davoucii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dav4thevid/Patatap-Clone/issues"
+  },
+  "homepage": "https://github.com/dav4thevid/Patatap-Clone#readme"
+}
