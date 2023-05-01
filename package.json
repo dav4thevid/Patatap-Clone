@@ -4,7 +4,7 @@
   "description": "display circles and makes sounds when you tap any key",
   "main": "Circles.html",
   "dependencies": {
-    "heroku": "^7.25.0"
+    "heroku": "^7.69.1"
   },
   "devDependencies": {},
   "scripts": {
